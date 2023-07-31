@@ -1,0 +1,5 @@
+yum install java-1.8.0-openjdk -y
+yum install maven -y
+yum install git -y
+amazon-linux-extras install java-openjdk11 -y
+update-alternatives --config.java
